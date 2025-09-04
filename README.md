@@ -9,9 +9,6 @@ This project performs sentiment analysis on 50,000 IMDb movie reviews using two 
 ## 📁 Repository Structure
 
 ```
-.
-├── data/                # IMDb dataset
-│
 ├── notebook/            
 │   ├── sentiment_analysis.ipynb
 │   └── images/          # Word clouds & confusion matrices
